@@ -1,0 +1,11 @@
+{
+  "name": "learn_electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sunpipi8972/learn_electron.git",
+  "author": "sunpipi <18113157484@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^20.0.3"
+  }
+}
